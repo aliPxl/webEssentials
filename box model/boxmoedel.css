@@ -1,0 +1,19 @@
+.header{
+
+}
+
+.left{
+    float: left;
+    width: 500px;
+}
+
+.gray{
+    float: left;
+    border: 5px solid green;
+background-color: gray;
+    width:250px;
+    padding: 20px;
+}
+.kaderP{
+
+}
